@@ -1,0 +1,60 @@
+entrar na plataforma
+fazer login
+clicar em cadastrar o gasto
+Salecionar o tipo do gasto se é entrada ou saque
+Colocar a data que foi feita o gasto
+digitar o valor do gasto
+Digitar o numero de parcelas do gasto
+Selecionar a data de vencimento da parcel
+Clicar em concluir cadastro de gasto
+
+Entrar na tela inicial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+classe gasto
+    funcao que recebe data, descricao, parcelas, vencimento
+        data de entrada
+        descricao do gasto
+        valor do gasto
+        quantidade de parcelas
+        data de vencimento/mês
+
+
+
+
+
+funcao saldo
+    entradas cadastradas
+    data de entrada
+    subtrai dos gastos
+
+Funcao principal
+    chamar a funcao de tipos de gastos 
+    exibir a funcao de tipos de gastos em grafico
+
