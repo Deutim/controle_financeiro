@@ -1,0 +1,103 @@
+
+Rodando sistema
+
+    Enquanto o sistema tiver rodando, não fechar
+
+        Dashboard Geral das Despesas do mês vigente
+
+        Menu
+
+        Saldo total disponivel 
+        Despesas previstas para o mês
+        Dividas ativas
+        Relatório Mensal 
+        Cadastrar novo lançamento
+
+        Fechar sistema
+
+            Selecionando Cadastrar lançamento 
+
+                selecionar tipo Receita ou Despesa
+
+                    Receita
+
+                        Data de lançamento da Receita (Com opção de escolher o dia vigente)
+                        Descrição da Receita (Salário, Dividendos, Comissão, Extras...)
+                        Valor da Receita
+                        Já receu ou ainda irá receber (Para se organizar financeiramente)
+
+                            Se ainda irá receber data prevista
+                         
+                    Despesa
+
+                        Data de lançamento da Despesa (Com opção de escolher o dia vigente)
+                        Descrição da Despesa (Almoço no Restaurante, Pix para amor...)
+                        Valor da Despesa
+                        Tipo da Despesa
+
+                            Moradia, Alimentação, Transporte, Saúde, Educação, Lazer, Investimentos e Dividas
+                        
+                        Avista ou Parcelado
+
+                            Se parcelado a quantidade de vezes
+                        Mês previsto para o pagamento da Despesa
+                        Se já foi pago ou ainda falta a pagar (Para ter um controle do que já foi gasto no mês)
+                    
+                Cadastrar um novo lançamento ou voltar?
+
+                     Se selecionar novo lançamento, repetir processo
+
+                    Se selecionar voltar, retornar a página do Menu
+            
+            Para visualizar o Saldo total disponivel
+
+                Soma todos os lançamentos de Receita do mês vigente
+                Soma todos os lançamentos de Despesas já pagas do mês vigente
+
+                    Subtraiar total de Receita pelo total Despesas
+            
+            Para visualizar o total de Despesas ativas do mês vigente
+                 
+                Soma todos os lançamentos de Despesas já pagas
+                Soma todos os lançamento de Despesas que ainda não foram pagas
+
+                    Subtrair total de Despesas não pagas pelo total de Despesas pagas
+
+            Selecionando dividas ativas
+
+                Exebir soma todas a despesas com o tipo Dividas que ainda não foram pagas
+
+                    Se selecionar voltar, retorna a páginda do Menu
+
+            Selecionando Relatório Mensal
+
+                Exebir uma lista de todos os mês já cadastrados
+
+                    Visualização de Mês , Ano , Total Receita Mensal , Total Despesas Mensal , Tipos Depesas representadas por porcentagem (Entretenimento 10%, investimento 15%...)
+                    Selecionando um mês
+
+                        Lista com todos os lançamentos a data dentro do mês selecionado
+
+                            Se selecionar voltar, retorna a página do Relatório Mensal
+                        
+                    Se selecionar voltar, retorna a página do Menu
+
+        Selecionando fechar sistema
+
+    Encerrando sistema
+
+Sistema encerrado
+
+            
+
+
+
+
+            
+
+
+                        
+
+
+
+

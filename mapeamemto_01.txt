@@ -1,0 +1,26 @@
+
+criar lista de transações
+
+enquanto sistema rodando:
+
+    mostrar menu
+
+    se escolher cadastrar:
+        pedir tipo
+        pedir valor
+        pedir descrição
+        pedir data
+        salvar transação
+
+    se escolher listar:
+        mostrar todas as transações
+
+    se escolher saldo:
+        saldo = 0
+        para cada transação:
+            se receita → soma
+            se despesa → subtrai
+        mostrar saldo
+
+    se escolher sair:
+        encerrar
